@@ -13,6 +13,7 @@
    |--App.vue               程序入口vue组件
    |--main.js               程序入口文件
    |--router.js             路由信息文件
+|--static                   静态资源文件夹
 |--.gitignore              
 |--package-lock.json
 |--package.json             项目文件，记载着一些命令和依赖还有简要的项目描述信息
